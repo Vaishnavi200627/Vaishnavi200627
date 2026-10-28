@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img
+    src="./github-banner.png"
+    alt="Vaishnavi Tawade - Developer Profile"
+    width="100%"
+  />
+</div>
+
+<br/>
