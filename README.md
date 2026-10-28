@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <img
-    src="./github-banner.png"
+    src="./1613bf63-4be7-4a5a-81a0-ec556e978706.png"
     alt="Vaishnavi Tawade - Developer Profile"
     width="100%"
   />
